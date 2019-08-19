@@ -1,0 +1,515 @@
+
+
+[2019-08-07 15:08:36] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-07 15:08:37] Change number 0->6687872, apps: 0/0, packages: 0/0
+[2019-08-07 15:08:37] Requesting 1 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-07 15:08:37] Requesting 1 apps, 11 packages (full data, 1024 prev attempts)
+[2019-08-07 15:08:38] UpdatesJob: finished OK, nAppsUpdated 1 (3 KB), nPackagesUpdated 11 (11 KB)
+[2019-08-07 15:08:38] Requesting 219 apps, 0 packages (meta data, 1024 prev attempts)
+[2019-08-07 15:08:38] Requested 52 access tokens, 49 received, 3 denied
+[2019-08-07 15:08:39] Updated SHAs with 49 new access tokens
+[2019-08-07 15:08:39] Downloaded 7 apps via HTTP, 387 KB (67 KB compressed)
+[2019-08-07 15:08:39] Requesting 212 apps, 0 packages (full data, 1024 prev attempts)
+[2019-08-07 15:08:46] UpdatesJob: finished OK, nAppsUpdated 219 (781 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-07 15:08:49] Starting async write F:\workspace\steamcmd/appcache/appinfo.vdf (604123 bytes)
+
+
+[2019-08-08 14:25:57] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-08 14:25:57] Packages changed: force all
+[2019-08-08 14:25:57] Apps changed: force all
+[2019-08-08 14:25:57] Change number 6687872->6693908, apps: 0/0, packages: 0/0
+[2019-08-08 14:25:57] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-08 14:25:58] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-08 14:25:58] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-08 14:37:18] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-08 14:37:18] Packages changed: force all
+[2019-08-08 14:37:18] Apps changed: force all
+[2019-08-08 14:37:18] Change number 6687872->6693941, apps: 0/0, packages: 0/0
+[2019-08-08 14:37:18] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-08 14:37:19] Requested 3 access tokens, 0 received, 3 denied
+[2019-08-08 14:37:19] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-08 14:37:19] UpdatesJob: canceled 4 HTTP requests
+
+
+[2019-08-12 14:36:25] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-12 14:36:26] Packages changed: force all
+[2019-08-12 14:36:26] Apps changed: force all
+[2019-08-12 14:36:26] Change number 6687872->6710546, apps: 0/0, packages: 0/0
+[2019-08-12 14:36:26] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-12 14:36:26] Requested 3 access tokens, 0 received, 3 denied
+[2019-08-12 14:36:26] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-12 14:36:26] UpdatesJob: canceled 5 HTTP requests
+
+
+[2019-08-12 17:19:01] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-12 17:19:01] Packages changed: force all
+[2019-08-12 17:19:01] Apps changed: force all
+[2019-08-12 17:19:01] Change number 6687872->6711112, apps: 0/0, packages: 0/0
+[2019-08-12 17:19:01] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-12 17:19:02] Requested 3 access tokens, 0 received, 3 denied
+[2019-08-12 17:19:02] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-12 17:19:02] UpdatesJob: canceled 5 HTTP requests
+
+
+[2019-08-12 17:19:38] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-12 17:19:38] Packages changed: force all
+[2019-08-12 17:19:38] Apps changed: force all
+[2019-08-12 17:19:38] Change number 6687872->6711116, apps: 0/0, packages: 0/0
+[2019-08-12 17:19:38] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-12 17:19:39] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-12 17:19:39] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-13 09:21:49] RequestAppInfoUpdate: nNumAppIDs 1
+
+
+[2019-08-13 09:26:01] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 09:26:02] Packages changed: force all
+[2019-08-13 09:26:02] Apps changed: force all
+[2019-08-13 09:26:02] Change number 6687872->6715425, apps: 0/0, packages: 0/0
+[2019-08-13 09:26:02] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-13 09:26:02] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-13 09:26:02] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-13 10:31:38] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 10:31:39] Packages changed: force all
+[2019-08-13 10:31:39] Apps changed: force all
+[2019-08-13 10:31:39] Change number 6687872->6715587, apps: 0/0, packages: 0/0
+[2019-08-13 10:31:39] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-13 10:31:39] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2019-08-13 10:37:05] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 10:37:06] Packages changed: force all
+[2019-08-13 10:37:06] Apps changed: force all
+[2019-08-13 10:37:06] Change number 6687872->6715609, apps: 0/0, packages: 0/0
+[2019-08-13 10:37:06] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-13 10:37:06] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-13 10:37:06] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-13 10:39:14] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 10:39:15] Packages changed: force all
+[2019-08-13 10:39:15] Apps changed: force all
+[2019-08-13 10:39:15] Change number 6687872->6715615, apps: 0/0, packages: 0/0
+[2019-08-13 10:39:15] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-13 10:39:15] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-13 10:39:15] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-13 10:44:38] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 10:44:39] Packages changed: force all
+[2019-08-13 10:44:39] Apps changed: force all
+[2019-08-13 10:44:39] Change number 6687872->6715623, apps: 0/0, packages: 0/0
+[2019-08-13 10:44:39] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-13 10:44:39] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-13 10:44:39] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-13 10:53:19] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 10:53:19] Packages changed: force all
+[2019-08-13 10:53:19] Apps changed: force all
+[2019-08-13 10:53:19] Change number 6687872->6715642, apps: 0/0, packages: 0/0
+[2019-08-13 10:53:20] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-13 10:53:20] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-13 10:53:20] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-13 10:55:35] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 10:55:36] Packages changed: force all
+[2019-08-13 10:55:36] Apps changed: force all
+[2019-08-13 10:55:36] Change number 6687872->6715646, apps: 0/0, packages: 0/0
+[2019-08-13 10:55:36] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-13 10:55:36] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-13 10:55:36] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-13 16:42:01] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 16:42:01] Packages changed: force all
+[2019-08-13 16:42:01] Apps changed: force all
+[2019-08-13 16:42:01] Change number 6687872->6716895, apps: 0/0, packages: 0/0
+[2019-08-13 16:42:01] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-13 16:42:02] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-13 16:42:02] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-13 16:46:08] RequestAppInfoUpdate: nNumAppIDs 1
+
+
+[2019-08-13 16:49:25] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 16:49:25] Packages changed: force all
+[2019-08-13 16:49:25] Apps changed: force all
+[2019-08-13 16:49:25] Change number 6687872->6716919, apps: 0/0, packages: 0/0
+[2019-08-13 16:49:25] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-13 16:49:26] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-13 16:49:26] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-13 16:50:02] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 16:50:28] RequestAppInfoUpdate: nNumAppIDs 1
+
+
+[2019-08-13 16:52:56] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 16:52:57] Packages changed: force all
+[2019-08-13 16:52:57] Apps changed: force all
+[2019-08-13 16:52:57] Change number 6687872->6716934, apps: 0/0, packages: 0/0
+[2019-08-13 16:52:57] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-13 16:52:58] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-13 16:52:58] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-13 17:04:06] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 17:04:07] Packages changed: force all
+[2019-08-13 17:04:07] Apps changed: force all
+[2019-08-13 17:04:07] Change number 6687872->6716976, apps: 0/0, packages: 0/0
+[2019-08-13 17:04:07] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-13 17:04:07] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-13 17:04:07] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-13 17:05:41] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 17:05:42] Packages changed: force all
+[2019-08-13 17:05:42] Apps changed: force all
+[2019-08-13 17:05:42] Change number 6687872->6716989, apps: 0/0, packages: 0/0
+[2019-08-13 17:05:42] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-13 17:05:42] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2019-08-13 17:08:29] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 17:08:30] Packages changed: force all
+[2019-08-13 17:08:30] Apps changed: force all
+[2019-08-13 17:08:30] Change number 6687872->6716992, apps: 0/0, packages: 0/0
+[2019-08-13 17:08:30] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-13 17:08:30] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-13 17:08:30] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-13 17:11:04] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 17:11:05] Packages changed: force all
+[2019-08-13 17:11:05] Apps changed: force all
+[2019-08-13 17:11:05] Change number 6687872->6716997, apps: 0/0, packages: 0/0
+[2019-08-13 17:11:05] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-13 17:11:05] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-13 17:11:05] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-13 17:13:15] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 17:14:08] RequestAppInfoUpdate: nNumAppIDs 1
+
+
+[2019-08-13 17:18:58] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 17:19:24] RequestAppInfoUpdate: nNumAppIDs 1
+
+
+[2019-08-13 17:25:45] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 17:25:46] Packages changed: force all
+[2019-08-13 17:25:46] Apps changed: force all
+[2019-08-13 17:25:46] Change number 6687872->6717073, apps: 0/0, packages: 0/0
+[2019-08-13 17:25:46] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-13 17:25:46] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-13 17:25:46] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-13 17:26:31] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-13 17:26:32] Packages changed: force all
+[2019-08-13 17:26:32] Apps changed: force all
+[2019-08-13 17:26:32] Change number 6687872->6717075, apps: 0/0, packages: 0/0
+[2019-08-13 17:26:32] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-13 17:26:32] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-13 17:26:32] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-14 09:22:05] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 09:22:06] Packages changed: force all
+[2019-08-14 09:22:06] Apps changed: force all
+[2019-08-14 09:22:06] Change number 6687872->6723109, apps: 0/0, packages: 0/0
+[2019-08-14 09:22:06] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-14 09:22:06] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-14 09:22:06] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-14 15:54:02] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 15:54:03] Packages changed: force all
+[2019-08-14 15:54:03] Apps changed: force all
+[2019-08-14 15:54:03] Change number 6687872->6724270, apps: 0/0, packages: 0/0
+[2019-08-14 15:54:03] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-14 15:54:03] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-14 15:54:03] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-14 16:50:09] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 16:50:10] Packages changed: force all
+[2019-08-14 16:50:10] Apps changed: force all
+[2019-08-14 16:50:10] Change number 6687872->6724537, apps: 0/0, packages: 0/0
+[2019-08-14 16:50:10] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-14 16:50:10] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2019-08-14 17:34:26] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 17:34:27] Packages changed: force all
+[2019-08-14 17:34:27] Apps changed: force all
+[2019-08-14 17:34:27] Change number 6687872->6724737, apps: 0/0, packages: 0/0
+[2019-08-14 17:34:27] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-14 17:34:28] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-14 17:34:28] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-14 17:50:26] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 17:50:27] Packages changed: force all
+[2019-08-14 17:50:27] Apps changed: force all
+[2019-08-14 17:50:27] Change number 6687872->6724808, apps: 0/0, packages: 0/0
+[2019-08-14 17:50:27] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-14 17:50:27] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-14 17:50:27] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-14 17:51:12] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 17:51:12] Packages changed: force all
+[2019-08-14 17:51:12] Apps changed: force all
+[2019-08-14 17:51:12] Change number 6687872->6724808, apps: 0/0, packages: 0/0
+[2019-08-14 17:51:12] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-14 17:51:13] Requested 3 access tokens, 0 received, 3 denied
+[2019-08-14 17:51:13] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-14 17:51:13] UpdatesJob: canceled 5 HTTP requests
+
+
+[2019-08-14 17:52:00] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 17:52:51] RequestAppInfoUpdate: nNumAppIDs 1
+
+
+[2019-08-14 17:54:00] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 17:54:00] Packages changed: force all
+[2019-08-14 17:54:00] Apps changed: force all
+[2019-08-14 17:54:00] Change number 6687872->6724819, apps: 0/0, packages: 0/0
+[2019-08-14 17:54:00] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-14 17:54:01] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-14 17:54:01] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-14 17:56:31] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 17:57:24] RequestAppInfoUpdate: nNumAppIDs 1
+
+
+[2019-08-14 17:57:49] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 17:57:49] Packages changed: force all
+[2019-08-14 17:57:49] Apps changed: force all
+[2019-08-14 17:57:49] Change number 6687872->6724834, apps: 0/0, packages: 0/0
+[2019-08-14 17:57:49] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-14 17:57:50] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-14 17:57:50] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-14 18:03:52] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 18:03:53] Packages changed: force all
+[2019-08-14 18:03:53] Apps changed: force all
+[2019-08-14 18:03:53] Change number 6687872->6724873, apps: 0/0, packages: 0/0
+[2019-08-14 18:03:53] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-14 18:03:53] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-14 18:03:53] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-14 18:05:40] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 18:05:41] Packages changed: force all
+[2019-08-14 18:05:41] Apps changed: force all
+[2019-08-14 18:05:41] Change number 6687872->6724880, apps: 0/0, packages: 0/0
+[2019-08-14 18:05:41] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-14 18:05:41] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-14 18:05:41] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-14 18:12:55] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 18:12:56] Packages changed: force all
+[2019-08-14 18:12:56] Apps changed: force all
+[2019-08-14 18:12:56] Change number 6687872->6724907, apps: 0/0, packages: 0/0
+[2019-08-14 18:12:56] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-14 18:12:56] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-14 18:12:56] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-14 18:14:16] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 18:15:07] RequestAppInfoUpdate: nNumAppIDs 1
+
+
+[2019-08-14 18:24:45] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 18:24:46] Packages changed: force all
+[2019-08-14 18:24:46] Apps changed: force all
+[2019-08-14 18:24:46] Change number 6687872->6724962, apps: 0/0, packages: 0/0
+[2019-08-14 18:24:46] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-14 18:24:46] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2019-08-14 18:25:34] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 18:25:34] Packages changed: force all
+[2019-08-14 18:25:34] Apps changed: force all
+[2019-08-14 18:25:34] Change number 6687872->6724966, apps: 0/0, packages: 0/0
+[2019-08-14 18:25:34] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-14 18:25:35] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-14 18:25:35] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-14 18:28:21] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 18:28:22] Packages changed: force all
+[2019-08-14 18:28:22] Apps changed: force all
+[2019-08-14 18:28:22] Change number 6687872->6724974, apps: 0/0, packages: 0/0
+[2019-08-14 18:28:22] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-14 18:28:22] Requested 3 access tokens, 0 received, 3 denied
+[2019-08-14 18:28:23] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-14 18:28:23] UpdatesJob: canceled 5 HTTP requests
+
+
+[2019-08-14 18:31:08] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-14 18:31:08] Packages changed: force all
+[2019-08-14 18:31:08] Apps changed: force all
+[2019-08-14 18:31:08] Change number 6687872->6724985, apps: 0/0, packages: 0/0
+[2019-08-14 18:31:08] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-14 18:31:09] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-14 18:31:09] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-15 09:10:24] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-15 09:10:25] Packages changed: force all
+[2019-08-15 09:10:25] Apps changed: force all
+[2019-08-15 09:10:25] Change number 6687872->6729088, apps: 0/0, packages: 0/0
+[2019-08-15 09:10:26] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-15 09:10:26] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2019-08-15 09:12:55] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-15 09:12:55] Packages changed: force all
+[2019-08-15 09:12:55] Apps changed: force all
+[2019-08-15 09:12:55] Change number 6687872->6729092, apps: 0/0, packages: 0/0
+[2019-08-15 09:12:55] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-15 09:12:56] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-15 09:12:56] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-15 09:19:29] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-15 09:19:29] Packages changed: force all
+[2019-08-15 09:19:29] Apps changed: force all
+[2019-08-15 09:19:29] Change number 6687872->6729108, apps: 0/0, packages: 0/0
+[2019-08-15 09:19:30] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-15 09:19:30] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-15 09:19:30] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-15 09:25:08] RequestAppInfoUpdate: nNumAppIDs 1
+
+
+[2019-08-15 09:28:01] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-15 09:28:01] Packages changed: force all
+[2019-08-15 09:28:01] Apps changed: force all
+[2019-08-15 09:28:01] Change number 6687872->6729128, apps: 0/0, packages: 0/0
+[2019-08-15 09:28:01] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-15 09:28:02] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-15 09:28:02] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-15 09:28:08] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-15 09:28:08] Packages changed: force all
+[2019-08-15 09:28:08] Apps changed: force all
+[2019-08-15 09:28:08] Change number 6687872->6729128, apps: 0/0, packages: 0/0
+[2019-08-15 09:28:08] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-15 09:28:09] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2019-08-15 09:29:28] RequestAppInfoUpdate: nNumAppIDs 1
+
+
+[2019-08-15 09:30:45] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-15 09:30:46] Packages changed: force all
+[2019-08-15 09:30:46] Apps changed: force all
+[2019-08-15 09:30:46] Change number 6687872->6729137, apps: 0/0, packages: 0/0
+[2019-08-15 09:30:46] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-15 09:30:46] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-15 09:30:46] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-15 09:33:48] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-15 09:33:48] Packages changed: force all
+[2019-08-15 09:33:48] Apps changed: force all
+[2019-08-15 09:33:48] Change number 6687872->6729145, apps: 0/0, packages: 0/0
+[2019-08-15 09:33:48] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-15 09:33:49] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-15 09:33:49] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-15 09:40:07] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-15 09:40:07] Packages changed: force all
+[2019-08-15 09:40:07] Apps changed: force all
+[2019-08-15 09:40:07] Change number 6687872->6729162, apps: 0/0, packages: 0/0
+[2019-08-15 09:40:07] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-15 09:40:08] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-15 09:40:08] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-15 09:44:26] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-15 09:44:26] Packages changed: force all
+[2019-08-15 09:44:26] Apps changed: force all
+[2019-08-15 09:44:26] Change number 6687872->6729176, apps: 0/0, packages: 0/0
+[2019-08-15 09:44:26] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-15 09:44:27] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-15 09:44:27] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-15 09:45:19] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-15 09:45:20] Packages changed: force all
+[2019-08-15 09:45:20] Apps changed: force all
+[2019-08-15 09:45:20] Change number 6687872->6729178, apps: 0/0, packages: 0/0
+[2019-08-15 09:45:20] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-15 09:45:20] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+
+
+[2019-08-15 09:50:05] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-15 09:50:05] Packages changed: force all
+[2019-08-15 09:50:05] Apps changed: force all
+[2019-08-15 09:50:05] Change number 6687872->6729190, apps: 0/0, packages: 0/0
+[2019-08-15 09:50:05] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-15 09:50:06] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-15 09:50:06] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-15 09:50:49] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-15 09:50:49] Packages changed: force all
+[2019-08-15 09:50:49] Apps changed: force all
+[2019-08-15 09:50:49] Change number 6687872->6729192, apps: 0/0, packages: 0/0
+[2019-08-15 09:50:50] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-15 09:50:50] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-15 09:50:50] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-15 09:55:20] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-15 09:55:21] Packages changed: force all
+[2019-08-15 09:55:21] Apps changed: force all
+[2019-08-15 09:55:21] Change number 6687872->6729205, apps: 0/0, packages: 0/0
+[2019-08-15 09:55:21] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-15 09:55:21] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-15 09:55:21] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-15 10:01:52] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-15 10:02:19] RequestAppInfoUpdate: nNumAppIDs 1
+
+
+[2019-08-15 10:05:49] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-15 10:05:49] Packages changed: force all
+[2019-08-15 10:05:49] Apps changed: force all
+[2019-08-15 10:05:49] Change number 6687872->6729228, apps: 0/0, packages: 0/0
+[2019-08-15 10:05:49] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-15 10:05:50] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-15 10:05:50] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-15 14:23:40] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-15 14:23:40] Packages changed: force all
+[2019-08-15 14:23:40] Apps changed: force all
+[2019-08-15 14:23:40] Change number 6687872->6729890, apps: 0/0, packages: 0/0
+[2019-08-15 14:23:40] Requesting 220 apps, 11 packages (meta data, 1024 prev attempts)
+[2019-08-15 14:23:40] UpdatesJob: finished Failure, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2019-08-15 14:23:40] UpdatesJob: canceled 0 HTTP requests
+
+
+[2019-08-16 09:43:48] RequestAppInfoUpdate: nNumAppIDs 1
+[2019-08-16 09:44:15] RequestAppInfoUpdate: nNumAppIDs 1

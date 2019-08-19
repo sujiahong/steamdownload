@@ -1,0 +1,10 @@
+Steam Console Client (c) Valve Corporation
+-- type 'quit' to exit --
+Loading Steam API...OK.
+Logging in user '01Ed3a207s5t' to Steam Public ...
+Logged in OK
+Waiting for user info...FAILED. Timed out.
+OK
+Redirecting stderr to 'f:\workspace\gameFileSync\steamcmd\logs\stderr.txt'
+[  0%] 正在检查可用更新...
+[----] 正在验证安装...

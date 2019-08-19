@@ -1,0 +1,15 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"SurveyDate"		"2018-12-06"
+				"SurveyDateVersion"		"1258055396525468580"
+				"SteamDefaultDialog"		"#app_store"
+			}
+		}
+	}
+}

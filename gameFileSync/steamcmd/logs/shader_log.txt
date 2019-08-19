@@ -1,0 +1,599 @@
+
+
+[2019-08-07 10:13:32] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-07 10:13:32] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-07 10:13:32] Unknown shader cache type, ignoring.
+[2019-08-07 10:13:32] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-07 10:13:32] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-07 10:13:32] Unknown shader cache type, ignoring.
+[2019-08-07 10:13:33] Found 0 current buckets:
+
+
+[2019-08-07 14:56:55] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-07 14:56:55] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-07 14:56:55] Unknown shader cache type, ignoring.
+[2019-08-07 14:56:56] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-07 14:56:56] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-07 14:56:56] Unknown shader cache type, ignoring.
+[2019-08-07 14:56:56] Found 0 current buckets:
+
+
+[2019-08-07 15:08:33] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-07 15:08:33] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-07 15:08:33] Unknown shader cache type, ignoring.
+[2019-08-07 15:08:34] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-07 15:08:34] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-07 15:08:34] Unknown shader cache type, ignoring.
+[2019-08-07 15:08:34] Found 0 current buckets:
+
+
+[2019-08-08 14:25:53] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-08 14:25:53] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-08 14:25:53] Unknown shader cache type, ignoring.
+[2019-08-08 14:25:54] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-08 14:25:54] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-08 14:25:54] Unknown shader cache type, ignoring.
+[2019-08-08 14:25:54] Found 0 current buckets:
+
+
+[2019-08-08 14:37:15] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-08 14:37:15] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-08 14:37:15] Unknown shader cache type, ignoring.
+[2019-08-08 14:37:15] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-08 14:37:15] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-08 14:37:15] Unknown shader cache type, ignoring.
+[2019-08-08 14:37:16] Found 0 current buckets:
+
+
+[2019-08-12 14:36:24] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-12 14:36:24] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-12 14:36:24] Unknown shader cache type, ignoring.
+[2019-08-12 14:36:25] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-12 14:36:25] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-12 14:36:25] Unknown shader cache type, ignoring.
+[2019-08-12 14:36:25] Found 0 current buckets:
+
+
+[2019-08-12 17:18:57] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-12 17:18:57] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-12 17:18:57] Unknown shader cache type, ignoring.
+[2019-08-12 17:18:58] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-12 17:18:58] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-12 17:18:58] Unknown shader cache type, ignoring.
+[2019-08-12 17:18:58] Found 0 current buckets:
+
+
+[2019-08-12 17:19:36] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-12 17:19:36] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-12 17:19:36] Unknown shader cache type, ignoring.
+[2019-08-12 17:19:36] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-12 17:19:36] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-12 17:19:36] Unknown shader cache type, ignoring.
+[2019-08-12 17:19:37] Found 0 current buckets:
+
+
+[2019-08-13 09:21:45] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 09:21:45] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 09:21:45] Unknown shader cache type, ignoring.
+[2019-08-13 09:21:45] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 09:21:45] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 09:21:45] Unknown shader cache type, ignoring.
+[2019-08-13 09:21:46] Found 0 current buckets:
+
+
+[2019-08-13 09:26:00] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 09:26:00] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 09:26:00] Unknown shader cache type, ignoring.
+[2019-08-13 09:26:01] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 09:26:01] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 09:26:01] Unknown shader cache type, ignoring.
+[2019-08-13 09:26:01] Found 0 current buckets:
+
+
+[2019-08-13 10:31:32] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 10:31:32] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 10:31:32] Unknown shader cache type, ignoring.
+[2019-08-13 10:31:33] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 10:31:33] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 10:31:33] Unknown shader cache type, ignoring.
+[2019-08-13 10:31:33] Found 0 current buckets:
+
+
+[2019-08-13 10:37:04] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 10:37:04] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 10:37:04] Unknown shader cache type, ignoring.
+[2019-08-13 10:37:04] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 10:37:04] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 10:37:04] Unknown shader cache type, ignoring.
+[2019-08-13 10:37:05] Found 0 current buckets:
+
+
+[2019-08-13 10:39:13] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 10:39:13] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 10:39:13] Unknown shader cache type, ignoring.
+[2019-08-13 10:39:14] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 10:39:14] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 10:39:14] Unknown shader cache type, ignoring.
+[2019-08-13 10:39:14] Found 0 current buckets:
+
+
+[2019-08-13 10:44:34] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 10:44:34] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 10:44:34] Unknown shader cache type, ignoring.
+[2019-08-13 10:44:35] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 10:44:35] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 10:44:35] Unknown shader cache type, ignoring.
+[2019-08-13 10:44:35] Found 0 current buckets:
+
+
+[2019-08-13 10:53:16] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 10:53:16] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 10:53:16] Unknown shader cache type, ignoring.
+[2019-08-13 10:53:16] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 10:53:16] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 10:53:16] Unknown shader cache type, ignoring.
+[2019-08-13 10:53:17] Found 0 current buckets:
+
+
+[2019-08-13 10:55:33] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 10:55:33] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 10:55:33] Unknown shader cache type, ignoring.
+[2019-08-13 10:55:34] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 10:55:34] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 10:55:34] Unknown shader cache type, ignoring.
+[2019-08-13 10:55:34] Found 0 current buckets:
+
+
+[2019-08-13 16:41:58] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 16:41:58] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 16:41:58] Unknown shader cache type, ignoring.
+[2019-08-13 16:41:58] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 16:41:58] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 16:41:58] Unknown shader cache type, ignoring.
+[2019-08-13 16:41:59] Found 0 current buckets:
+
+
+[2019-08-13 16:46:07] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 16:46:07] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 16:46:07] Unknown shader cache type, ignoring.
+[2019-08-13 16:46:07] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 16:46:07] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 16:46:07] Unknown shader cache type, ignoring.
+[2019-08-13 16:46:08] Found 0 current buckets:
+
+
+[2019-08-13 16:49:23] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 16:49:23] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 16:49:23] Unknown shader cache type, ignoring.
+[2019-08-13 16:49:23] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 16:49:23] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 16:49:23] Unknown shader cache type, ignoring.
+[2019-08-13 16:49:24] Found 0 current buckets:
+
+
+[2019-08-13 16:50:01] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 16:50:01] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 16:50:01] Unknown shader cache type, ignoring.
+[2019-08-13 16:50:02] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 16:50:02] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 16:50:02] Unknown shader cache type, ignoring.
+[2019-08-13 16:50:02] Found 0 current buckets:
+
+
+[2019-08-13 16:52:21] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 16:52:21] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 16:52:21] Unknown shader cache type, ignoring.
+[2019-08-13 16:52:21] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 16:52:21] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 16:52:21] Unknown shader cache type, ignoring.
+[2019-08-13 16:52:22] Found 0 current buckets:
+
+
+[2019-08-13 17:04:04] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 17:04:04] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 17:04:04] Unknown shader cache type, ignoring.
+[2019-08-13 17:04:05] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 17:04:05] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 17:04:05] Unknown shader cache type, ignoring.
+[2019-08-13 17:04:05] Found 0 current buckets:
+
+
+[2019-08-13 17:05:39] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 17:05:39] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 17:05:39] Unknown shader cache type, ignoring.
+[2019-08-13 17:05:39] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 17:05:39] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 17:05:39] Unknown shader cache type, ignoring.
+[2019-08-13 17:05:40] Found 0 current buckets:
+
+
+[2019-08-13 17:08:28] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 17:08:28] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 17:08:28] Unknown shader cache type, ignoring.
+[2019-08-13 17:08:29] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 17:08:29] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 17:08:29] Unknown shader cache type, ignoring.
+[2019-08-13 17:08:29] Found 0 current buckets:
+
+
+[2019-08-13 17:11:02] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 17:11:02] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 17:11:02] Unknown shader cache type, ignoring.
+[2019-08-13 17:11:02] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 17:11:02] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 17:11:02] Unknown shader cache type, ignoring.
+[2019-08-13 17:11:03] Found 0 current buckets:
+
+
+[2019-08-13 17:13:13] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 17:13:13] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 17:13:13] Unknown shader cache type, ignoring.
+[2019-08-13 17:13:14] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 17:13:14] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 17:13:14] Unknown shader cache type, ignoring.
+[2019-08-13 17:13:14] Found 0 current buckets:
+
+
+[2019-08-13 17:18:57] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 17:18:57] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 17:18:57] Unknown shader cache type, ignoring.
+[2019-08-13 17:18:57] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 17:18:57] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 17:18:58] Unknown shader cache type, ignoring.
+[2019-08-13 17:18:58] Found 0 current buckets:
+
+
+[2019-08-13 17:25:43] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 17:25:43] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 17:25:43] Unknown shader cache type, ignoring.
+[2019-08-13 17:25:43] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 17:25:43] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 17:25:43] Unknown shader cache type, ignoring.
+[2019-08-13 17:25:44] Found 0 current buckets:
+
+
+[2019-08-13 17:26:28] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 17:26:28] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-13 17:26:28] Unknown shader cache type, ignoring.
+[2019-08-13 17:26:28] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 17:26:28] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-13 17:26:28] Unknown shader cache type, ignoring.
+[2019-08-13 17:26:29] Found 0 current buckets:
+
+
+[2019-08-14 09:22:04] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 09:22:04] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 09:22:04] Unknown shader cache type, ignoring.
+[2019-08-14 09:22:04] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 09:22:04] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 09:22:04] Unknown shader cache type, ignoring.
+[2019-08-14 09:22:05] Found 0 current buckets:
+
+
+[2019-08-14 15:54:01] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 15:54:01] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 15:54:01] Unknown shader cache type, ignoring.
+[2019-08-14 15:54:02] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 15:54:02] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 15:54:02] Unknown shader cache type, ignoring.
+[2019-08-14 15:54:02] Found 0 current buckets:
+
+
+[2019-08-14 16:50:07] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 16:50:07] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 16:50:07] Unknown shader cache type, ignoring.
+[2019-08-14 16:50:08] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 16:50:08] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 16:50:08] Unknown shader cache type, ignoring.
+[2019-08-14 16:50:09] Found 0 current buckets:
+
+
+[2019-08-14 17:34:23] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 17:34:23] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 17:34:23] Unknown shader cache type, ignoring.
+[2019-08-14 17:34:23] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 17:34:23] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 17:34:23] Unknown shader cache type, ignoring.
+[2019-08-14 17:34:24] Found 0 current buckets:
+
+
+[2019-08-14 17:50:24] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 17:50:24] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 17:50:24] Unknown shader cache type, ignoring.
+[2019-08-14 17:50:25] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 17:50:25] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 17:50:25] Unknown shader cache type, ignoring.
+[2019-08-14 17:50:25] Found 0 current buckets:
+
+
+[2019-08-14 17:51:09] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 17:51:09] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 17:51:09] Unknown shader cache type, ignoring.
+[2019-08-14 17:51:09] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 17:51:09] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 17:51:09] Unknown shader cache type, ignoring.
+[2019-08-14 17:51:10] Found 0 current buckets:
+
+
+[2019-08-14 17:51:58] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 17:51:58] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 17:51:58] Unknown shader cache type, ignoring.
+[2019-08-14 17:51:59] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 17:51:59] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 17:51:59] Unknown shader cache type, ignoring.
+[2019-08-14 17:51:59] Found 0 current buckets:
+
+
+[2019-08-14 17:53:58] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 17:53:58] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 17:53:58] Unknown shader cache type, ignoring.
+[2019-08-14 17:53:58] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 17:53:58] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 17:53:58] Unknown shader cache type, ignoring.
+[2019-08-14 17:53:59] Found 0 current buckets:
+
+
+[2019-08-14 17:56:29] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 17:56:29] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 17:56:29] Unknown shader cache type, ignoring.
+[2019-08-14 17:56:29] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 17:56:29] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 17:56:30] Unknown shader cache type, ignoring.
+[2019-08-14 17:56:30] Found 0 current buckets:
+
+
+[2019-08-14 17:57:48] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 17:57:48] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 17:57:48] Unknown shader cache type, ignoring.
+[2019-08-14 17:57:48] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 17:57:48] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 17:57:48] Unknown shader cache type, ignoring.
+[2019-08-14 17:57:49] Found 0 current buckets:
+
+
+[2019-08-14 18:03:49] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 18:03:49] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 18:03:49] Unknown shader cache type, ignoring.
+[2019-08-14 18:03:50] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 18:03:50] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 18:03:50] Unknown shader cache type, ignoring.
+[2019-08-14 18:03:50] Found 0 current buckets:
+
+
+[2019-08-14 18:05:38] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 18:05:38] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 18:05:38] Unknown shader cache type, ignoring.
+[2019-08-14 18:05:38] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 18:05:38] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 18:05:38] Unknown shader cache type, ignoring.
+[2019-08-14 18:05:39] Found 0 current buckets:
+
+
+[2019-08-14 18:12:52] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 18:12:52] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 18:12:52] Unknown shader cache type, ignoring.
+[2019-08-14 18:12:53] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 18:12:53] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 18:12:53] Unknown shader cache type, ignoring.
+[2019-08-14 18:12:54] Found 0 current buckets:
+
+
+[2019-08-14 18:14:14] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 18:14:14] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 18:14:14] Unknown shader cache type, ignoring.
+[2019-08-14 18:14:14] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 18:14:14] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 18:14:14] Unknown shader cache type, ignoring.
+[2019-08-14 18:14:15] Found 0 current buckets:
+
+
+[2019-08-14 18:24:43] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 18:24:43] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 18:24:43] Unknown shader cache type, ignoring.
+[2019-08-14 18:24:44] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 18:24:44] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 18:24:44] Unknown shader cache type, ignoring.
+[2019-08-14 18:24:44] Found 0 current buckets:
+
+
+[2019-08-14 18:25:31] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 18:25:31] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 18:25:32] Unknown shader cache type, ignoring.
+[2019-08-14 18:25:32] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 18:25:32] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 18:25:32] Unknown shader cache type, ignoring.
+[2019-08-14 18:25:33] Found 0 current buckets:
+
+
+[2019-08-14 18:28:19] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 18:28:19] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 18:28:19] Unknown shader cache type, ignoring.
+[2019-08-14 18:28:20] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 18:28:20] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 18:28:20] Unknown shader cache type, ignoring.
+[2019-08-14 18:28:21] Found 0 current buckets:
+
+
+[2019-08-14 18:31:06] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 18:31:06] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-14 18:31:06] Unknown shader cache type, ignoring.
+[2019-08-14 18:31:07] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 18:31:07] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-14 18:31:07] Unknown shader cache type, ignoring.
+[2019-08-14 18:31:08] Found 0 current buckets:
+
+
+[2019-08-15 09:10:23] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:10:23] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:10:23] Unknown shader cache type, ignoring.
+[2019-08-15 09:10:24] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:10:24] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:10:24] Unknown shader cache type, ignoring.
+[2019-08-15 09:10:24] Found 0 current buckets:
+
+
+[2019-08-15 09:12:51] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:12:51] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:12:51] Unknown shader cache type, ignoring.
+[2019-08-15 09:12:52] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:12:52] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:12:52] Unknown shader cache type, ignoring.
+[2019-08-15 09:12:52] Found 0 current buckets:
+
+
+[2019-08-15 09:19:26] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:19:26] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:19:26] Unknown shader cache type, ignoring.
+[2019-08-15 09:19:26] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:19:26] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:19:27] Unknown shader cache type, ignoring.
+[2019-08-15 09:19:27] Found 0 current buckets:
+
+
+[2019-08-15 09:25:07] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:25:07] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:25:07] Unknown shader cache type, ignoring.
+[2019-08-15 09:25:07] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:25:07] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:25:07] Unknown shader cache type, ignoring.
+[2019-08-15 09:25:08] Found 0 current buckets:
+
+
+[2019-08-15 09:26:53] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:26:53] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:26:53] Unknown shader cache type, ignoring.
+[2019-08-15 09:26:54] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:26:54] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:26:54] Unknown shader cache type, ignoring.
+[2019-08-15 09:26:54] Found 0 current buckets:
+
+
+[2019-08-15 09:28:06] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:28:06] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:28:06] Unknown shader cache type, ignoring.
+[2019-08-15 09:28:07] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:28:07] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:28:07] Unknown shader cache type, ignoring.
+[2019-08-15 09:28:07] Found 0 current buckets:
+
+
+[2019-08-15 09:29:27] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:29:27] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:29:27] Unknown shader cache type, ignoring.
+[2019-08-15 09:29:27] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:29:27] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:29:27] Unknown shader cache type, ignoring.
+[2019-08-15 09:29:28] Found 0 current buckets:
+
+
+[2019-08-15 09:30:43] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:30:43] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:30:43] Unknown shader cache type, ignoring.
+[2019-08-15 09:30:44] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:30:44] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:30:44] Unknown shader cache type, ignoring.
+[2019-08-15 09:30:44] Found 0 current buckets:
+
+
+[2019-08-15 09:33:46] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:33:46] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:33:46] Unknown shader cache type, ignoring.
+[2019-08-15 09:33:47] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:33:47] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:33:47] Unknown shader cache type, ignoring.
+[2019-08-15 09:33:47] Found 0 current buckets:
+
+
+[2019-08-15 09:40:05] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:40:05] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:40:05] Unknown shader cache type, ignoring.
+[2019-08-15 09:40:05] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:40:05] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:40:05] Unknown shader cache type, ignoring.
+[2019-08-15 09:40:06] Found 0 current buckets:
+
+
+[2019-08-15 09:44:24] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:44:24] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:44:24] Unknown shader cache type, ignoring.
+[2019-08-15 09:44:25] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:44:25] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:44:25] Unknown shader cache type, ignoring.
+[2019-08-15 09:44:25] Found 0 current buckets:
+
+
+[2019-08-15 09:45:16] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:45:16] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:45:17] Unknown shader cache type, ignoring.
+[2019-08-15 09:45:17] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:45:17] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:45:17] Unknown shader cache type, ignoring.
+[2019-08-15 09:45:18] Found 0 current buckets:
+
+
+[2019-08-15 09:50:04] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:50:04] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:50:04] Unknown shader cache type, ignoring.
+[2019-08-15 09:50:04] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:50:04] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:50:05] Unknown shader cache type, ignoring.
+[2019-08-15 09:50:05] Found 0 current buckets:
+
+
+[2019-08-15 09:50:48] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:50:48] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:50:48] Unknown shader cache type, ignoring.
+[2019-08-15 09:50:48] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:50:48] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:50:48] Unknown shader cache type, ignoring.
+[2019-08-15 09:50:49] Found 0 current buckets:
+
+
+[2019-08-15 09:55:19] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:55:19] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 09:55:19] Unknown shader cache type, ignoring.
+[2019-08-15 09:55:20] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:55:20] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 09:55:20] Unknown shader cache type, ignoring.
+[2019-08-15 09:55:20] Found 0 current buckets:
+
+
+[2019-08-15 10:01:51] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 10:01:51] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 10:01:51] Unknown shader cache type, ignoring.
+[2019-08-15 10:01:51] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 10:01:51] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 10:01:51] Unknown shader cache type, ignoring.
+[2019-08-15 10:01:52] Found 0 current buckets:
+
+
+[2019-08-15 10:05:47] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 10:05:47] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 10:05:47] Unknown shader cache type, ignoring.
+[2019-08-15 10:05:48] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 10:05:48] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 10:05:48] Unknown shader cache type, ignoring.
+[2019-08-15 10:05:48] Found 0 current buckets:
+
+
+[2019-08-15 14:15:48] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 14:15:48] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 14:15:48] Unknown shader cache type, ignoring.
+
+
+[2019-08-15 14:23:37] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 14:23:37] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-15 14:23:37] Unknown shader cache type, ignoring.
+[2019-08-15 14:23:38] Attempting to find current bucket; temporary dir: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 14:23:38] Creating shader cache directory: F:\workspace\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-15 14:23:38] Unknown shader cache type, ignoring.
+[2019-08-15 14:23:38] Found 0 current buckets:
+
+
+[2019-08-16 09:43:46] Attempting to find current bucket; temporary dir: f:\workspace\gameFileSync\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-16 09:43:46] Creating shader cache directory: f:\workspace\gameFileSync\steamcmd\shader_cache_temp_dir_gl_64
+[2019-08-16 09:43:46] Unknown shader cache type, ignoring.
+[2019-08-16 09:43:47] Attempting to find current bucket; temporary dir: f:\workspace\gameFileSync\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-16 09:43:47] Creating shader cache directory: f:\workspace\gameFileSync\steamcmd\shader_cache_temp_dir_gl_32
+[2019-08-16 09:43:47] Unknown shader cache type, ignoring.
+[2019-08-16 09:43:47] Found 0 current buckets:
